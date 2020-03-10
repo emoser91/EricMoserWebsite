@@ -13,7 +13,7 @@ header{
     background-size: 100%;
     background-position: center;
     padding:20px;
-    height:550px;
+    height:400px;
     text-align: center;
 } 
 
@@ -62,7 +62,7 @@ nav li{
 }
 
 /* RESPONSIVE RULES */
-@media screen and (max-width:650px){
+@media screen and (max-width:775px){
     header{
         height:250px;
         background-position: 0 -40px;
@@ -76,7 +76,7 @@ nav li{
     }
 }
 
-@media screen and (max-width:500px){
+@media screen and (max-width:600px){
     header{
         height:200px;
         background-position: 0 0px;
