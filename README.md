@@ -1,2 +1,2 @@
-# ericmoserwebsite
-My Personal Website
+# EricMoserWebsite
+My Personal Website ericmoser.com
